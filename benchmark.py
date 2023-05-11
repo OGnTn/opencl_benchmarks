@@ -7,7 +7,7 @@ import implementations.optimized as optimized
 #### CONSTANTS ####
 results_path = "results"
 images_path = "images"
-ITER_AMOUNT = 1
+ITER_AMOUNT = 30
 
 ### BENCHMARK_CASES ###
 
